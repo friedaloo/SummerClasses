@@ -1,0 +1,17 @@
+===============================================
+        WeCare RETAIL STORE
+         Kathmandu, Nepal
+        Phone: +977-1-1234567
+===============================================
+Invoice Type: SALE
+Customer Name: test1
+-----------------------------------------------
+Product Name         Brand           Qty   Price    Total
+-----------------------------------------------
+Vitamin C Serum     Garnier           -1    2000   -2000
+Vitamin C Serum     Garnier            2    2000    4000
+-----------------------------------------------
+Total Amount Due: Rs. 2000
+===============================================
+        THANK YOU FOR YOUR PURCHASE!
+===============================================

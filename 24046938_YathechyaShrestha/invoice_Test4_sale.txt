@@ -1,0 +1,21 @@
+===============================================
+        WeCare RETAIL STORE
+         Kathmandu, Nepal
+        Phone: +977-1-1234567
+===============================================
+Invoice Type: SALE
+Customer Name: test4
+-----------------------------------------------
+Product Name         Brand           Qty   Price    Total
+-----------------------------------------------
+Vitamin C Serum     Garnier           20    2000   40000
+    (Free: 6 units)
+Skin Cleanser       Cetaphil          10     560    5600
+    (Free: 3 units)
+Sunscreen           Aqualogica        10    1400   14000
+    (Free: 3 units)
+-----------------------------------------------
+Total Amount Due: Rs. 59600
+===============================================
+        THANK YOU FOR YOUR PURCHASE!
+===============================================
