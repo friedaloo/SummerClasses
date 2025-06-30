@@ -1,0 +1,10 @@
+1,Vitamin C Serum,Garnier,220,1000,France
+2,Skin Cleanser,Cetaphil,100,280,Switzerland
+3,Sunscreen,Aqualogica,200,700,India
+4,Moisturizer,Neutrogena,150,1200,USA
+5,Anti-Aging Cream,Olay,100,2500,UK
+6,Face Wash,Simple,300,350,Germany
+7,Lip Balm,Nivea,500,150,Netherlands
+8,Eye Cream,The Ordinary,120,1800,Canada
+9,Shampoo,Dove,400,450,Italy
+10,Conditioner,Tresemme,350,550,Spain
